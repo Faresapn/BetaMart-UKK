@@ -1,0 +1,22 @@
+D:\UKK (RPL)\VS\UKK_RPL\bin\Debug\UKK_RPL.exe.config
+D:\UKK (RPL)\VS\UKK_RPL\bin\Debug\UKK_RPL.exe
+D:\UKK (RPL)\VS\UKK_RPL\bin\Debug\UKK_RPL.pdb
+D:\UKK (RPL)\VS\UKK_RPL\obj\Debug\UKK_RPL.csprojAssemblyReference.cache
+D:\UKK (RPL)\VS\UKK_RPL\obj\Debug\UKK_RPL.Form1.resources
+D:\UKK (RPL)\VS\UKK_RPL\obj\Debug\UKK_RPL.Properties.Resources.resources
+D:\UKK (RPL)\VS\UKK_RPL\obj\Debug\UKK_RPL.csproj.GenerateResource.cache
+D:\UKK (RPL)\VS\UKK_RPL\obj\Debug\UKK_RPL.csproj.CoreCompileInputs.cache
+D:\UKK (RPL)\VS\UKK_RPL\obj\Debug\UKK_RPL.exe
+D:\UKK (RPL)\VS\UKK_RPL\obj\Debug\UKK_RPL.pdb
+D:\UKK (RPL)\VS\UKK_RPL\bin\Debug\barang.mdb
+D:\Sekolah\XII-RPL-1\UKK\VS\UKK_RPL\bin\Debug\barang.mdb
+D:\Sekolah\XII-RPL-1\UKK\VS\UKK_RPL\bin\Debug\UKK_RPL.exe.config
+D:\Sekolah\XII-RPL-1\UKK\VS\UKK_RPL\bin\Debug\UKK_RPL.exe
+D:\Sekolah\XII-RPL-1\UKK\VS\UKK_RPL\bin\Debug\UKK_RPL.pdb
+D:\Sekolah\XII-RPL-1\UKK\VS\UKK_RPL\obj\Debug\UKK_RPL.csprojAssemblyReference.cache
+D:\Sekolah\XII-RPL-1\UKK\VS\UKK_RPL\obj\Debug\UKK_RPL.Form1.resources
+D:\Sekolah\XII-RPL-1\UKK\VS\UKK_RPL\obj\Debug\UKK_RPL.Properties.Resources.resources
+D:\Sekolah\XII-RPL-1\UKK\VS\UKK_RPL\obj\Debug\UKK_RPL.csproj.GenerateResource.cache
+D:\Sekolah\XII-RPL-1\UKK\VS\UKK_RPL\obj\Debug\UKK_RPL.csproj.CoreCompileInputs.cache
+D:\Sekolah\XII-RPL-1\UKK\VS\UKK_RPL\obj\Debug\UKK_RPL.exe
+D:\Sekolah\XII-RPL-1\UKK\VS\UKK_RPL\obj\Debug\UKK_RPL.pdb
